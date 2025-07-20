@@ -1,7 +1,13 @@
 Hi
 
+this guide assumes - you are very familiar with developer options - how to enable - how to enable adb - and you are comfortable with adb commands, and adb commandline . 
+
+you use these commands at your own risk - have fun and enjoy 
+
 I got a Samsung Tab A7 lite for free and I knew it had a bad rep for being a general POS and slow, so I decided to go on a mission to try and root out (haha) every possible optimization
+
 that could be done without root or a custom rom - just using ADB only - the result is this pdf 
+
 my goal was to make it as high performance as possible without breaking anything or sacrificing usability - I think it is working pretty great now 
 you use these commands at your own risk - have fun and enjoy and let me know how it goes for you. If you have any other suggestions of things to add, let me know
 its by no means a flagship now but i like how it works better now 
